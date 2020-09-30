@@ -5,7 +5,7 @@ This project is included due to the fact it tries to deal with Windows Telemetry
 
 ### Red Team Considerations
 
-While a the original might be a Blue Team or at least defensive utility we can use it as a cover for nefarious 
+While the original might be a Blue Team or at least defensive utility we can use it as a cover for nefarious 
 purposes also.
 
 Compiling the original to `exe` and writing a Windows Installer might be a good way to deliver a Trojan. The benefit of 
