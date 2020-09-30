@@ -10,10 +10,11 @@ purposes also.
 
 Compiling the original to `exe` and writing a Windows Installer might be a good way to deliver a Trojan. The benefit of 
 using a Windows installer is that we can arrange for a malware to be installed along with the original project without
-eaising too much suspicion.
+raising too much suspicion.
 
-After all installers that ask for Admin Privs is not uncommon and with the installer being spoof signed before release.
-It might turn out to be an easy way to deliver malware of various kinds without too much trouble.
+After all, installers that ask for Admin Privs is not uncommon and certainly within the scope of normal installer behavior, and 
+with the installer being spoof signed before release. It might turn out to be an easy way to deliver malware of various kinds 
+without too much trouble. Send me a message at [GreySec](https://greysec.net) to discuss writing a prototype if you're interested.
 
 -------------------------------------------
 
